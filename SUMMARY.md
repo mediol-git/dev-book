@@ -7,4 +7,6 @@
 * [Урок 7. Каскад. Ієрархія. Наслідування. Псевдокласи.](urok-7.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
 * [Урок 8. Каскад. Ієрархія. Наслідування. Псевдокласи.](urok-8.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
 * [Урок 9. Текст. Стилі для форматування тексту. Шрифти.](urok-9.-tekst.-stili-dlya-formatuvannya-tekstu.-shrifti..md)
+* [Урок 10. Вбудовані стилі браузерів. CSS Reset. Властивості box-sizing та display.](urok-10.-vbudovani-stili-brauzeriv.-css-reset.-vlastivosti-box-sizing-ta-display..md)
+* [Урок 11. Потік документа. Властивість float.](urok-11.-potik-dokumenta.-vlastivist-float..md)
 
