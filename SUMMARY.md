@@ -9,4 +9,5 @@
 * [Урок 9. Текст. Стилі для форматування тексту. Шрифти.](urok-9.-tekst.-stili-dlya-formatuvannya-tekstu.-shrifti..md)
 * [Урок 10. Вбудовані стилі браузерів. CSS Reset. Властивості box-sizing та display.](urok-10.-vbudovani-stili-brauzeriv.-css-reset.-vlastivosti-box-sizing-ta-display..md)
 * [Урок 11. Потік документа. Властивість float.](urok-11.-potik-dokumenta.-vlastivist-float..md)
+* [Урок 12. Позиціонування та властивість overflow.](urok-12.-pozicionuvannya-ta-vlastivist-overflow..md)
 
