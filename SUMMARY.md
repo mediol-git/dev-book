@@ -13,5 +13,5 @@
 * [Урок 13. Анімація в CSS. Властивості transition & transform](urok-13.-animaciya-v-css.-vlastivosti-transition-and-transform.md)
 * [Урок 14. Flex-box. Вирівнювання та розташування flex-елементів.](urok-14.-flex-box.-virivnyuvannya-ta-roztashuvannya-flex-elementiv..md)
 * [Урок 15. Flex-box. Порядок та розміри flex-елементів.](urok-15.-flex-box.-poryadok-ta-rozmiri-flex-elementiv..md)
-* [Урок 16. Верстка мобільного \(burger\) меню.](urok-16.-verstka-mobilnogo-burger-menyu..md)
+* [Урок 16. Верстка шапки сайту. Меню та кнопки авторизації.](urok-16.-verstka-mobilnogo-burger-menyu..md)
 
