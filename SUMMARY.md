@@ -16,4 +16,5 @@
 * [Урок 16. Верстка шапки сайту. Меню та кнопки авторизації.](urok-16.-verstka-mobilnogo-burger-menyu..md)
 * [Урок 17. Adaptive & Responsive.](urok-17.-adaptive-and-responsive..md)
 * [Урок 18. Верстка мобільного меню](urok-18.-verstka-mobilnogo-menyu.md)
+* [Урок 19.Створення SVG іконок. FontAwesome](urok-19.stvorennya-svg-ikonok.-fontawesome.md)
 
