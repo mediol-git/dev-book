@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Урок 3. Семантична розмітка сторінки](README.md)
+* [Урок 2. Семантична розмітка сторінки. Валідація.](README.md)
+* [Урок 3. Практика \(теги\)](urok-3.-praktika-tegi.md)
 * [Урок 4. Блочні та рядкові теги. Основні групи тегів.](urok-4.-blochni-ta-ryadkovi-tegi.-atributi-tega.-osnovni-grupi-tegiv..md)
 * [Урок 5. Система контролю версій Git. Сервіс GitHub.](urok-5.-sistema-kontrolyu-versii-git.-servis-github..md)
 * [Урок 6. Що таке CSS. Способи використання стилів. CSS-селектори.](urok-6.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
