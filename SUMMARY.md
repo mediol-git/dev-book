@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Урок 2. Семантична розмітка сторінки. Валідація.](README.md)
+* [Урок 3. Семантична розмітка сторінки](urok-3.-semantichna-rozmitka-storinki.md)
 * [Урок 3. Блочні та рядкові теги. Основні групи тегів.](urok-3.-blochni-ta-ryadkovi-tegi.-atributi-tega.-osnovni-grupi-tegiv..md)
 * [Урок 4. Практика \(HTML теги\)](urok-4.-praktika-tegi.md)
 * [Урок 5. Система контролю версій Git. Сервіс GitHub.](urok-5.-sistema-kontrolyu-versii-git.-servis-github..md)
