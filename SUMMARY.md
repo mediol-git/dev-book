@@ -7,6 +7,7 @@
 * [Урок 6. Що таке CSS. Способи використання стилів. CSS-селектори.](urok-6.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
 * [Урок 7. Каскад. Ієрархія. Наслідування. Псевдокласи.](urok-7.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
 * [Урок 8. Текст. Стилі для форматування тексту. Шрифти.](urok-8.-tekst.-stili-dlya-formatuvannya-tekstu.-shrifti..md)
+* [Урок 9.](urok-9..md)
 * [Урок 9. Практика \(Основи CSS\)](urok-9.-praktika-osnovi-css.md)
 * [Урок 10. Вбудовані стилі браузерів. Блокова модель.](urok-10.-vbudovani-stili-brauzeriv.-css-reset.-vlastivosti-box-sizing-ta-display..md)
 * [Урок 11. Flex-box. Вирівнювання та розташування flex-елементів.](urok-11.-flex-box.-virivnyuvannya-ta-roztashuvannya-flex-elementiv..md)
