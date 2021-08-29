@@ -23,5 +23,6 @@
 * [Урок 21. Позиціонування.](urok-21.-pozicionuvannya.md)
 * [Урок 22. Практика \(позиціонування\)](urok-22.-praktika-pozicionuvannya.md)
 * [Урок 23. Adaptive & Responsive.](urok-23.-adaptive-and-responsive..md)
-* [Урок 24. Практика \(мобільне меню\)](urok-24.-verstka-mobilnogo-menyu.md)
+* [Урок 24. Mobile first верстка](urok-24.-mobile-first-verstka.md)
+* [Урок 25. Практика \(мобільне меню\)](urok-25.-verstka-mobilnogo-menyu.md)
 
