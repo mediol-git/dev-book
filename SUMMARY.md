@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Урок 2. Семантична розмітка сторінки. Валідація.](README.md)
+* [Урок 3. Семантична розмітка сторінки](urok-3.-semantichna-rozmitka-storinki.md)
 * [Урок 3. Блочні та рядкові теги. Основні групи тегів.](urok-3.-blochni-ta-ryadkovi-tegi.-atributi-tega.-osnovni-grupi-tegiv..md)
 * [Урок 4. Практика \(HTML теги\)](urok-4.-praktika-tegi.md)
 * [Урок 5. Система контролю версій Git. Сервіс GitHub.](urok-5.-sistema-kontrolyu-versii-git.-servis-github..md)
@@ -22,5 +23,6 @@
 * [Урок 21. Позиціонування.](urok-21.-pozicionuvannya.md)
 * [Урок 22. Практика \(позиціонування\)](urok-22.-praktika-pozicionuvannya.md)
 * [Урок 23. Adaptive & Responsive.](urok-23.-adaptive-and-responsive..md)
-* [Урок 24. Практика \(мобільне меню\)](urok-24.-verstka-mobilnogo-menyu.md)
+* [Урок 24. Mobile first верстка](urok-24.-mobile-first-verstka.md)
+* [Урок 25. Практика \(мобільне меню\)](urok-25.-verstka-mobilnogo-menyu.md)
 
