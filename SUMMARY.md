@@ -29,4 +29,6 @@
 * [Урок 28. Bootstrap - утиліти](urok-28.-bootstrap-utiliti.md)
 * [Урок 29. Практика \(bootstrap\)](urok-29.-praktika-bootstrap.md)
 * [Урок 30. Препроцесори SASS/SCSS. Підключення до проекту.](urok-30.-preprocesori-sass-scss.-pidklyuchennya-do-proektu..md)
+* [Урок 31. Препроцесори SASS/SCSS - міксіни та імпорт файлів.](urok-31.-preprocesori-sass-scss-miksini-ta-import-failiv..md)
+* [Урок 32. Практика \(SCSS\)](urok-32.-praktika-scss.md)
 
