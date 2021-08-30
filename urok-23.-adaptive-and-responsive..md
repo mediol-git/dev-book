@@ -4,7 +4,7 @@ description: >-
   твій сайт.
 ---
 
-# Урок 24. Adaptive & Responsive.
+# Урок 23. Adaptive & Responsive.
 
 ### Мета:
 

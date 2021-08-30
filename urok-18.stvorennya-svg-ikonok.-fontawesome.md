@@ -2,7 +2,7 @@
 description: 'It''s awesome! It''s really magiс! - No, these are just fonts))'
 ---
 
-# Урок 19.Створення SVG іконок. FontAwesome
+# Урок 18.Створення SVG іконок. FontAwesome
 
 ### Мета:
 

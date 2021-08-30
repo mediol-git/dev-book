@@ -2,7 +2,7 @@
 description: Ти таки можеш творити магію! Спробуй transform
 ---
 
-# Урок 18. Анімація в CSS. Властивості transition & transform
+# Урок 17. Анімація в CSS. Властивості transition & transform
 
 ### Мета:
 
