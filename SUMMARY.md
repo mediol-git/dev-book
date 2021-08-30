@@ -25,5 +25,8 @@
 * [Урок 23. Adaptive & Responsive.](urok-23.-adaptive-and-responsive..md)
 * [Урок 24. Mobile first верстка](urok-24.-mobile-first-verstka.md)
 * [Урок 25. Практика \(мобільне меню\)](urok-25.-verstka-mobilnogo-menyu.md)
-* [Урок 26. Bootstrap \(ч.1\)](urok-26.-bootstrap-ch.1.md)
+* [Урок 26. Bootstrap - установка та розмітка](urok-26.-bootstrap-ch.1.md)
+* [Урок 27. Bootstrap - компоненти](urok-27.-bootstrap-komponenti.md)
+* [Урок 28. Bootstrap - утиліти](urok-28.-bootstrap-utiliti.md)
+* [Урок 29. Практика \(bootstrap\)](urok-29.-praktika-bootstrap.md)
 
